@@ -1,7 +1,9 @@
-Role Name
+ansible-mas
 =========
+[![Build Status](https://travis-ci.com/MayNiklas/ansible-mas.svg?branch=master)](https://travis-ci.com/MayNiklas/ansible-mas)
 
-A brief description of the role goes here.
+- makes sure mas is installed
+- installs applications defined in mas_apps
 
 Requirements
 ------------
